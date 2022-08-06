@@ -11,3 +11,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+first you have to install docker desktop installer and wsl_update_64.
+then in cmd prompt use docker -v to verify whether the docker is installed or not
+then go the root directory where you have clone the repo
+and write the cmd docker-compose up
+and you will be done!
